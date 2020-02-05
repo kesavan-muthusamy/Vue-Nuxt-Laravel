@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "scripts": {
+        "start": "laravel-nuxt dev",
+        "build": "laravel-nuxt build"
+    },
+    "dependencies": {
+        "@syncfusion/ej2-vue-charts": "^17.4.46",
+        "laravel-nuxt": "^1.0.0"
+    }
+}

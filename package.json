@@ -6,6 +6,6 @@
     },
     "dependencies": {
         "@syncfusion/ej2-vue-charts": "^17.4.46",
-        "laravel-nuxt": "^1.0.0"
+        "laravel-nuxt": "^2.0.2"
     }
 }
